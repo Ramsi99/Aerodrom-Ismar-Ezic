@@ -1,0 +1,12 @@
+ID karte: (1,)
+ID korisnika: (1,)
+Ime putnika: ('Danilo',)
+Prezime putnika: ('Danilovic',)
+ID leta: (1,)
+Tezina prtljage: 6 kg
+Klasa sjedišta: 2
+Cijena leta: (70,) KM
+Destinacija leta: ('Barcelona',)
+Vrijeme leta: ('14:30:00',)
+Datum leta: ('2023-10-10',)
+ID aviona na ovom letu: (2,)
